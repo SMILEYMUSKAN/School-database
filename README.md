@@ -9,7 +9,7 @@ They want to be able to record their students name ,absent,present,name of the c
 ***
 >To solve this problem ,a database can be desined to store information about regular attendance of their students.
 
-This database have a table called **School Records**.
+This database have a table called **School Attendence Records**.
 
 ***
 ## *School Attendens Records*
