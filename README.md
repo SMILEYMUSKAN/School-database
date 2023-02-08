@@ -23,7 +23,7 @@ not
 Present                     : Particular student have attend the school [or] 
 not
 
-Attendens of student per month : The attendens of Particular student
+Attendens of student per year : The attendens of Particular student
 ***
 **Sample School Attendens Record**
 
