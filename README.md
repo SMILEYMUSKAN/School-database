@@ -3,7 +3,7 @@
 ***
 >A school management wants to record their students data.
 
-They want to be able to record their students name ,absent,present,attend the school per year.
+They want to be able to record their students name ,absent,present,name of the class teacher. 
 ***
 ## *Solution*
 ***
@@ -23,18 +23,18 @@ not
 Present                     : Particular student have attend the school [or] 
 not
 
-Attendens of student per year : The attendens of Particular student
+Name of the class teacher : To verify that the class teacher have done the attendance [or] not
 ***
 **Sample School Attendens Record**
 
 ***
 
-| S.no | Names of the students | Absent | Present | Attendens of students per month  |
+| S.no | Names of the students | Absent | Present | Name of the class teacher   |
 |--- | --- | --- | --- | ---|
-| 1. | Sony                    |  ---|  Present    | 350|
-| 2. | Afifa                   |   absent |  ---  | 244|
-| 3. | Yasmeen| --- |  present |  310|
-| 4. | Roshan | --- |  present | 360|| 
+| 1. | Sony                    |  ---|  Present    | Rani
+| 2. | Afifa                   |   absent |  ---  | Rani
+| 3. | Yasmeen| --- |  present |  Rani
+| 4. | Roshan | --- |  present | Rani
 ***
  ## *School Attendence Record System Operation*
 ***
