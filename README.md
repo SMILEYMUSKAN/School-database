@@ -7,7 +7,7 @@ They want to be able to record their students name ,absent,present,name of the c
 ***
 ## *Solution*
 ***
->To solve this problem ,a database can be desined to store information about their each student.
+>To solve this problem ,a database can be desined to store information about regular attendance of their students.
 
 This database have a table called **School Records**.
 
