@@ -2,14 +2,19 @@
 
 >Table: Staff Info
 
-**In a table Staff Info we have four colums:**
-```
-Staff Names : Text
-Address     :  Text
-Staff ID    :  Text
-Salary      :  Text
-```
+**In a table 'Staff Info' we have four colums:**
+***
+Staff Names : **Names of the staff working in the company**
 
+Address     : **Addresses of the staff**
+
+Staff ID    : **Id of the staff**
+
+Salary      : **Salaries of the staff**
+***
+
+## How to `INSERT` the staff info in a table by `Sql cmd` ?
+***
 ## Sql cmd
 
 ```sql
