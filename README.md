@@ -3,7 +3,7 @@
 ***
 >A school management wants to record their students data.
 
-They want to be able to record their students name ,absent,present,name of the class teacher. 
+They want to be able to record their students name, absent, present, name of the class teacher. 
 ***
 ## *Solution*
 ***
