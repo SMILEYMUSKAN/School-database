@@ -44,3 +44,5 @@ Name of the class teacher : To verify that the class teacher have done the atten
  - Delete School Attendence Record
 
  ![](https://m.media-amazon.com/images/I/71fRvNABPZL._CR0,204,1224,1224_UX256.jpg)
+
+# *Dummy Info*
